@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\day_1\quiz1\bin\Debug\net8.0\quiz1.exe
+C:\Users\ACER\source\repos\day_1\quiz1\bin\Debug\net8.0\quiz1.deps.json
+C:\Users\ACER\source\repos\day_1\quiz1\bin\Debug\net8.0\quiz1.runtimeconfig.json
+C:\Users\ACER\source\repos\day_1\quiz1\bin\Debug\net8.0\quiz1.dll
+C:\Users\ACER\source\repos\day_1\quiz1\bin\Debug\net8.0\quiz1.pdb
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\quiz1.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\quiz1.AssemblyInfo.cs
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\quiz1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\quiz1.sourcelink.json
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\quiz1.dll
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\refint\quiz1.dll
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\quiz1.pdb
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\quiz1.genruntimeconfig.cache
+C:\Users\ACER\source\repos\day_1\quiz1\obj\Debug\net8.0\ref\quiz1.dll
